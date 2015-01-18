@@ -21,8 +21,11 @@ Yet to decide on the final location from the below choices
 * ericson ( Sam to confirm)
 * anna university (Will contact ilugc srinivasan through prasanna)
 * Csscorp
-
-I shall add the other tentative locations soon.
+* Orangescape
+* collabnet
+* thoughtworks
+* Indix
+* Chennai Mathematical Institute
 
 ## Action Items
 * Akilesh to update our github page with a document containing the topics I suggest. Look for a file called Topics.md
@@ -32,6 +35,5 @@ I shall add the other tentative locations soon.
 
 ## Post Script
 * Syed to see what can be done with raspberry pi python library
-* I'll try to bring in a professional python trainer for a talk
-* someone please include Arun in this mail
+* Akilesh to bring in a professional python trainer for a talk
 * Someone could also attend every chennai py meetup just as a token of respect and also to spy on them.
