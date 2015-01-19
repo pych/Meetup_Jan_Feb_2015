@@ -36,4 +36,3 @@ Yet to decide on the final location from the below choices
 ## Post Script
 * Syed to see what can be done with raspberry pi python library
 * Akilesh to bring in a professional python trainer for a talk
-* Someone could also attend every chennai py meetup just as a token of respect and also to spy on them.
