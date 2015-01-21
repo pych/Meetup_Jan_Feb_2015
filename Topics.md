@@ -6,6 +6,7 @@
  * [multiprocessing] to exploit multi threaded multi core multi processor machine.
  * Writing a daemon/ service for windows/linux.
  * managing process using supervisord/ circusd.
+ * [oslo] developed for openstack but can be used anywhere we need config file / db / command line args / message queue interactions. 
  
 
 
@@ -18,6 +19,7 @@
 [twisted]: https://twistedmatrix.com/trac/
 [subprocess]: https://docs.python.org/2/library/subprocess.html
 [multiprocessing]: https://docs.python.org/2/library/multiprocessing.html?highlight=multiprocessing#module-multiprocessing
+[oslo]: https://wiki.openstack.org/wiki/Oslo
 
 
 
